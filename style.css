@@ -1,0 +1,13 @@
+.jumbotron {
+    padding-top: 2rem;
+    background-color: rgba(130, 253, 212, 0.24);
+}
+
+#projects {
+    background-color: rgba(130, 253, 212, 0.24);
+}
+
+footer {
+    background-color: rgba(130, 253, 212, 0.548);
+    color: darkred;
+}
